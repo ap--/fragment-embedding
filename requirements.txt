@@ -1,6 +1,6 @@
 pandas
 joblib
 scikit-learn==1.2.2
-# rdkit==2022.09.05
+# rdkit==2022.09.05  # rdkit packages on conda lack dist info folders seemingly... https://github.com/conda-forge/rdkit-feedstock/issues/104
 tqdm
 onnxruntime==1.14.1
